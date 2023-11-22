@@ -1,0 +1,16 @@
+/* necessary */
+.boxfilter, .txt-content {
+    display: none;
+}
+
+.show, .txt-content.active {
+    display: block;
+}
+
+.active{
+    background-color: rgb(128, 128, 236);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
